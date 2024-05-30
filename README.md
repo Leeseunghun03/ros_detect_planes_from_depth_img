@@ -1,5 +1,6 @@
 Detect Planes from Depth Image
 =======================================
+open3d version 0.10.0.0
 
 **Demo of usage:**  
 ```
